@@ -11,7 +11,7 @@ def main():
         spark = get_spark_object(var.envn,var.appName)
         print("Spark object created!")
         validate_spark_object(spark=spark)
-        print(sbak)
+
 
     except Exception as e:
         print(f"Error in main(): \n{str(e)}")
