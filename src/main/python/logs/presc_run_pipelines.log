@@ -1,0 +1,6 @@
+"17-Jan-23 11:02:43" - root - INFO - Sarting spark code
+"17-Jan-23 11:02:55" - root - INFO - Spark object created!
+"17-Jan-23 11:05:01" - root - INFO - Sarting spark code
+"17-Jan-23 11:05:01" - create_object - INFO - Creating session with yarn for Prescriber Research Report.
+"17-Jan-23 11:05:13" - create_object - INFO - Session Created Successfully!
+"17-Jan-23 11:05:13" - root - INFO - Spark object created!
